@@ -49,3 +49,6 @@ f1.bar(1);
 f1.bar(2);
 f1.bar(3);
 console.log(f1.getLastAns());
+
+//Summary
+// A closure is a function that retains access to variables from its outer scope even after the outer function has finished executing.

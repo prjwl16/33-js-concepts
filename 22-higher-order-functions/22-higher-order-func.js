@@ -28,3 +28,6 @@ higherOrderFunction(() => console.log("This is a callback function"));
 // const ans = takeFuncReturnFunc(callBackFunc);
 // console.log(ans);
 // ans();
+
+//Summary
+//Higher order functions are functions that take another function as an argument, or return a function as a result.
