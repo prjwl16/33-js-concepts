@@ -25,13 +25,6 @@ console.log(f.lastAns); // will not work because you cannot access the varialble
 //1. It has access to its own scope (variables defined between its curly brackets).
 //2. It has access to the outer function’s variables.
 //3. It has access to the global variables.
-//The closure also has access to:
-//1. Its own parameters.
-//2. Outer function’s parameters.
-//3. Global variables.
-//In the above example, the function bar has access to the variable num defined in its own scope.
-//It also has access to the variable lastAns defined in the scope of the outer function foo.
-//It also has access to the global variable idk.
 
 //This is how u can access the private (not allowed to be accessed directly) variables
 
